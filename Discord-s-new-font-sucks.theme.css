@@ -7,8 +7,9 @@
 */
 
 :root {
-  --font-primary: Whitney,gg sans,"Helvetica Neue",Helvetica,Arial,sans-serif!important;
-  --font-display: Whitney,gg sans,"Helvetica Neue",Helvetica,Arial,sans-serif!important;
+  --font-primary: Whitney,"Helvetica Neue",Helvetica,Arial,sans-serif!important;
+  --font-display: Whitney,"Helvetica Neue",Helvetica,Arial,sans-serif!important;
+  font-family: Whitney,"Helvetica Neue",Helvetica,Arial,sans-serif!important;
 }
 @font-face {
   font-family: Whitney;
