@@ -5,6 +5,16 @@ https://github.com/snappycreeper/OldDiscordFont
 
 ## Made for BetterDiscord but can be adapted to other discord custom clients like openasar, etc...
 
+# How to install?
+## BetterDiscord
+Copy the Discord-s-new-font-sucks.css into the betterdiscord themes folder.
+## OpenAsar
+Go into the openasar settings, click theming and paste the code inside of Discord-s-new-font-sucks.css.
+## Powercord & Vizalty
+Sadly, there's no compatibility.
+## Stylus (or other theming browser extensions)
+I don't know, maybe it can be adapted.
+
 # Custom discord css to get the old font back
 If you didn't know, discord changed its font from Whitney (Wonderful font) to GG Sans (a font created by discord that sucks).
 This custom css replaces the newfont with the old one.
