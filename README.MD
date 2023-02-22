@@ -6,9 +6,9 @@ https://github.com/snappycreeper/OldDiscordFont
 ## Made for BetterDiscord but can be adapted to other discord custom clients like openasar, etc...
 
 # How to install?
-## BetterDiscord
+## BetterDiscord (https://betterdiscord.app/)
 Copy the Discord-s-new-font-sucks.css into the betterdiscord themes folder.
-## OpenAsar
+## OpenAsar (https://openasar.dev/)
 Go into the openasar settings, click theming and paste the code inside of Discord-s-new-font-sucks.css.
 ## Powercord & Vizalty
 Sadly, there's no compatibility.
